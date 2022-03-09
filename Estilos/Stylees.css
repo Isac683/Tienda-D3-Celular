@@ -1,0 +1,39 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: orange;
+}
+div{
+    padding: 1em;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+.Okey{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+.Ok{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+button{
+background-color: rgb(177, 36, 36);
+font-family: monospace;
+font-size: 30px;
+color: azure;
+}
+button:hover{
+    background-color:red;
+}
